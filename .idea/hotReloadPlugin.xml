@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="HotReloadPluginConfiguration">
+    <option name="hostNameKeyword" value="328" />
+    <option name="keywords">
+      <list>
+        <option value="rock" />
+      </list>
+    </option>
+    <option name="selectedHostName" value="bjrz-rs328.lf:18086" />
+    <option name="selectedProcess">
+      <JvmProcess>
+        <option name="detailVmArgs" value="-Xms1G -Xmx4G -XX:+AggressiveOpts -XX:+UseStringDeduplication -XX:ThreadStackSize=256 -Dfile.encoding=UTF-8 -Djava.library.path=/usr/local/lib -DforceNewMemcachedPool=1" />
+        <option name="displayName" value="com.kuaishou.runner.rocketmq.RocketMqConsumerStarter lotteryRemitPrizeConsumer" />
+        <option name="pid" value="1142" />
+      </JvmProcess>
+    </option>
+    <option name="server" value="hotfix.test.gifshow.com" />
+  </component>
+</project>
